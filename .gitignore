@@ -1,0 +1,2 @@
+# devdash
+*.zip *.tar.gz *.7z Thumbs.db Desktop.ini .DS_Store *.log *.py *.pyc __pycache__/ .venv/ venv/ *.egg-info/ dist/ build/ .env
